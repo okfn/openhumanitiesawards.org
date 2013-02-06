@@ -13,7 +13,11 @@
 
 body { background: #fff; background: url('images/bg.png') fixed repeat; color:#888; font-family:helvetica, arial, sans-serif;}
 
-
+blockquote {
+background:url(images/quote.gif) no-repeat top left;
+padding:0 0 0 60px;
+min-height:50px;
+}
 
 a { color:#ff9900; text-decoration:none; outline:none}
 a:hover { text-decoration:underline;}
@@ -114,4 +118,4 @@ ul#navigation li a {  padding:8px 8px 4px 0; margin-bottom:0px; display:inline-b
 .footer .col-6 p { font-size:inherit; color:#444;}
 .footer .col-3 p { text-align:right; opacity:1;}
 
-.titletext {font-size: 60px; color:#ff9900; text-align:right;}
+.titletext {font-size: 40px; color:#ff9900; text-align:right;}
