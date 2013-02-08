@@ -26,7 +26,7 @@ a:active { color:#666;}
 h1, h2, h3, h4, h5, h6 { color:#666; font-weight:normal; letter-spacing:--0.5px;}
 h1 { font-size:40px; font-weight:normal;}
 
-h2 { font-size:30px; margin-bottom:34px;}
+h2 { font-size:30px; margin-bottom:25px;}
 h2 + p { margin-top:-30px;}
 p + p { margin-top:-10px;}
 p + ul { margin-top:-16px;}
